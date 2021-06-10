@@ -61,4 +61,4 @@ Do not use an apostrophe for the plural of acronyms. For example:
 * LAN's - Instead use LANs.
 
 
-![Academy logo][img/Academy.png]
+![alt text](img/Academy.png "Academy logo")
