@@ -1,11 +1,25 @@
 # Sample Style Guide
 Technical Writing Academy - May 2021
 
+# Contents
+- [Sample Style Guide](#sample-style-guide)
+- [Contents](#contents)
+  - [Bold](#bold)
+  - [Italics](#italics)
+  - [Fixed Font](#fixed-font)
+  - [Abbreviations](#abbreviations)
+  - [Capitalization](#capitalization)
+  - [Acronyms](#acronyms)
+  - [Commas in Lists](#commas-in-lists)
+  - [Numbers](#numbers)
+  - [Contractions](#contractions)
+  - [Apostrophes](#apostrophes)
+
 ## Bold
 
 Use bold to highlight button names, field names, menus, radio buttons, or checkboxes. For example:
-* Click the **create** button to start the process.
-* Enter the IP adress in the **IP adress** field.
+* Click the **Create** button to start the process.
+* Enter the IP address in the **IP Address** field.
 
 ## Italics
 
@@ -20,11 +34,13 @@ Use a fixed font to highlight:
 
 ## Abbreviations
 Never use the following abbrevations in a formal document:
-* e.g. - instead use "for example."
-* i.e. - instead use "in other words."
-* etc. - instead give the full list of options
-* fig. - instead spell it out as "figure."
-* pg. - instead spell it out as "page."
+| Abbreviation   | Instead      |
+|----------|-------------|
+| e.g. |  Use "for example." |
+| i.e. |   Use "in other words."  |
+| etc. |Give the full list of options. |
+| fig. |Spell it out as "figure." |
+| pg. |Spell it out as "page."|
 
 ## Capitalization
 Use the standard capitalization rules. Also, keep in mind the following:
@@ -35,7 +51,7 @@ Use the standard capitalization rules. Also, keep in mind the following:
 Always define an acronym when you are using it for the first time. For example: This section specifies the terms used in a Product Requirement Document (PRD). The most often used terms in a PRD include...
 
 ## Commas in Lists
-The ruler regarding commas for in-sentence lists are as follows:
+The rules regarding commas for in-sentence lists are as follows:
 * Do not use a comma before "and" and "or" if your list contains only two items. For example:
 Any new organization needs to invest in good infrastructure and hiring great talent.
 * Use a comma before "and" and "or" when your list comprises three or more items. For example:
